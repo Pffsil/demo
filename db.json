@@ -1,9 +1,9 @@
-{
- "users":[{"nome":"Pedro Silva",
+{"users":[{"nome":"Pedro Silva",
            "id":"1",
            "email":"pedro16francisco_@hotmail.com",
            "password":"123456"
- },{"nome":"Miguel Chaves",
+ },
+ {"nome":"Miguel Chaves",
            "id":"2",
            "email":"migas_braga@hotmail.com",
            "password":"123456"}
