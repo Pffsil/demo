@@ -1,6 +1,5 @@
 {
-"users":
- [
+
  {
  "nome":"Pedro Silva",
 "id":"1",
@@ -12,5 +11,5 @@
 "id":"2",
 "email":"migas_braga@hotmail.com",
 "password":"123456"}
- ]
+
 }
