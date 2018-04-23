@@ -12,14 +12,7 @@
  ]
 
 
-"medicamentos"[
- {"id":"1",
- "Nome":"Paracetamol",
- "quantidade":"1",
- "intervaloDehoras":"8",
- "Descricao":"Tomar antes das refeições"
-}
- ]
+
 }
 
 
