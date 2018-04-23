@@ -13,7 +13,7 @@
 
 
 "medicamentos":[
- {"id":"1".
+ {"id":"1",
  "Nome":"Paracetamol",
  "quantidade":"1",
  "intervaloDehoras":"8",
